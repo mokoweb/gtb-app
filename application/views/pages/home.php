@@ -1,6 +1,7 @@
 
 <div class="logo">
 <img src="assets/img/gt-logo.jpg" alt="gtb logo" />
+<small>Guaranty Trust Bank </small>
 </div>
     <!-- Page Content -->
 	
